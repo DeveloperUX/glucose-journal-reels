@@ -16,5 +16,6 @@ All reels are education only, not medical advice.
 | `piggy-banks` | 34 s | Pop-art piggy banks | Gain muscle not fat, lose fat not muscle |
 | `microscope` | 41 s | Fluorescence microscopy documentary | GLUT4, glycogen, mTOR, lipase |
 | `doodle` | 27 s | Cozy app-style cartoon for teens | Insulin is a key, the gym opens extra doors |
+| `gaming-spike` | 25 s | Live esports broadcast parody | Stress hormones from a close game can raise blood sugar |
 
 Source code for every reel lives in [DeveloperUX/ai-videos](https://github.com/DeveloperUX/ai-videos) under `reels/src/videos/<name>`.
